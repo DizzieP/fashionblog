@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(#FFC0CB, white, lightgray);
+    color: black;
+    padding: 25px;
+    font-family: sans-serif;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+  }
+  
+  h1, h2, h3, h4 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    width: 40%;
+    padding: 0px 0px 20px 0px;
+  }
+  
+  p {
+    background-color: white;
+    text-align: left;
+    width: 40%;
+    margin: 0 auto;
+    border: 3px solid #708090;
+    padding: 10px 10px;
+  }
+  
